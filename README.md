@@ -17,7 +17,7 @@
 
 
 
-<h2>I am currently developing using:</h2> 
+<h2>At the moment I am developing using</h2> 
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
